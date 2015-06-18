@@ -1,2 +1,5 @@
 *.txt
 *.zip
+.Rhistory
+
+.RData
